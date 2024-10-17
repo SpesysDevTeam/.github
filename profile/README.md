@@ -1,6 +1,6 @@
-# 🌟 [Your Company Name] GitHub Organization
+# 🌟 [Spesys] GitHub Organization
 
-Welcome to **[Your Company Name]**'s GitHub Organization!
+Welcome to **[Spesys]**'s GitHub Organization!
 
 We are committed to building innovative solutions in **[Industry or Focus Area]** that aim to **[Core Mission or Goal]**.
 
